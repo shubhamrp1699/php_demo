@@ -1,1 +1,1 @@
-New demo GitHub devops
+New demo GitHub devops CICD pipeline
